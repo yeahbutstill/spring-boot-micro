@@ -1,4 +1,4 @@
-# spring-boot-micro
+# Spring Boot Microservices Project
 
 ## Setup mongo on Docker
 
